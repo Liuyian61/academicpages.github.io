@@ -13,7 +13,7 @@ name                     : &name "Liu Ning"
 description              : &description "Liu Ning"
 url                      : https://Liuyian61.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/github.io"
+repository               : "Liuyian61/academicpages/github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
